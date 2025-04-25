@@ -61,6 +61,8 @@ int main(void)
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/778fb654-1edd-4c46-a9dd-c3437e887871)
+
 
 
 ## Result:
